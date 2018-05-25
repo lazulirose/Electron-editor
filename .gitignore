@@ -1,5 +1,5 @@
+node_modules
+dist
+reports
+sandbox
 npm-debug.log
-.DS_Store
-.*.swp
-node_modules/
-.idea/
