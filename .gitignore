@@ -1,5 +1,6 @@
 node_modules
 dist
-reports
-sandbox
+reports/*
+sandbox/*
 npm-debug.log
+!.gitkeep
